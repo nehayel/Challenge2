@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@layer utilities {
+  .container {
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+  .font-sens {
+    font-family: "Bricolage Grotesque", sans-serif;
+  }
+}
